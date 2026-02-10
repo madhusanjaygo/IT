@@ -1,0 +1,5 @@
+{
+  "name": "NetSim: Visual Network Learning",
+  "description": "An interactive, simulation-based educational platform for learning computer network types and topologies through drag-and-drop building and real-time packet flow visualization.",
+  "requestFramePermissions": []
+}
